@@ -1,5 +1,7 @@
 # SpellBook — Fringe Detection & Overlay App
 
+This repository is a fork of my fusion research at UC Berkeley, where I contributed as part of my work with the plasma imaging lab.
+
 SpellBook is a Tkinter-based desktop tool for:
 1. Preprocessing (even illumination / contrast enhancement)
 2. Automatic fringe (line) detection & skeletonization
